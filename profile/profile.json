@@ -34,7 +34,7 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Monitor the usage of the hardware by the user. It stores the data in a Postgre database in a table created for that purpose. There is also a cron job that runs every minute to update the information stored in the database.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     },
