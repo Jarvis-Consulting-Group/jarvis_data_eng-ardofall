@@ -15,7 +15,7 @@ The Linux Cluster Monitoring Agent as the name indicates monitors the usage of t
 # Implementation
 Discuss how you implement the project.
 ## Architecture
-Draw a cluster diagram with three Linux hosts, a DB, and agents (use draw.io website). Image must be saved to the `assets` directory.
+![Cluster Diagram](assets/linux_monitoring_agent.png)
 
 ## Scripts
 Shell script description and usage (use markdown code block for script usage)
